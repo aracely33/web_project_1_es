@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/);
@@ -5,5 +6,6 @@
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__main-illustration/);
 @import url(../blocks/header/__square/);
-/*importa las mezclas y los modificadores de header*/
 @import url(../blocks/rotation/rotation.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_header.css);

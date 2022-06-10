@@ -1,25 +1,4 @@
 
-.logo_place_header {
-  height: 31px;
-  width: 154px;
-  top: 30px;
-  left: 64px;
-}
-
-
-.header__square:hover {
-  animation: rotation 20s linear infinite;
-}
-
-@keyframes rotation {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
 /*
 .description {
   margin-top: 100px;
