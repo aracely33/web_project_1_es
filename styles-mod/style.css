@@ -53,25 +53,9 @@ p:nth-child(1) {
   align-items: center;
   margin-bottom: 100px;
 }
-.section-title {
-  width: 60%;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  text-align: center;
-  line-height: 1.15;
-  font-size: 60px;
-  font-weight: bold;
-}
 
-.section-subtitle {
-  width: 60%;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  text-align: center;
-}
+
+
 
 .table {
   width: 1100px;

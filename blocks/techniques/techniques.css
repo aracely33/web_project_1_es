@@ -1,0 +1,7 @@
+.techniques {
+  border: solid 1px red;
+  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
