@@ -1,0 +1,11 @@
+.two-columns__main-text {
+  border: solid 1px red;
+  width: 80%;
+  min-width: 784px;
+  display: flex;
+  flex-direction: column;
+}
+
+p:nth-child(1) {
+  margin-top: 0;
+}
