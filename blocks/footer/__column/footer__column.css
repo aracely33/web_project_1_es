@@ -1,0 +1,5 @@
+.footer__column {
+  height: 100%;
+  flex-basis: 711px;
+  display: flex;
+}

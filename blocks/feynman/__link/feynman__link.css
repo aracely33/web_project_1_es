@@ -7,4 +7,5 @@
   position: absolute;
   right: 48px;
   top: 50%;
+  border: solid 1px red;
 }

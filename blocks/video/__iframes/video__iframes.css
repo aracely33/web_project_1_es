@@ -1,7 +1,6 @@
 .video__iframes {
   border: solid 1px yellow;
-  min-width: 1150px; /*cambiar a 1140px cuando quites los bordes*/
-  min-height: 400px;
+  min-width: 1140px;
   width: 515px;
   height: 316px;
   margin: 50px auto 0 auto;
