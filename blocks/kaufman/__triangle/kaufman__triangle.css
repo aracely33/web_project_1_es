@@ -1,8 +1,7 @@
 .kaufman__triangle {
   position: absolute;
-  top: 150px;
-  right: -130px;
-  transform: rotate(27deg);
+  top: 0px;
+  right: -124px;
 }
 
 .kaufman__triangle:hover {

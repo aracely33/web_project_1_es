@@ -1,5 +1,5 @@
 .video__iframe {
-  border: solid 1px green;
   margin: 0;
   padding: 0;
+  border: 0;
 }

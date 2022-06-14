@@ -1,4 +1,5 @@
 .khan__book-container {
-  border: solid 1px yellow;
   display: flex;
+  margin: 0;
+  padding: 0;
 }

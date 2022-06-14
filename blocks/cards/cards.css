@@ -1,5 +1,5 @@
 .cards {
-  width: 920px; /* cambiar a 920px una vez que se quiten los bordes*/
+  width: 920px;
   margin: 0 auto 0 auto;
   padding: 0;
   display: flex;
