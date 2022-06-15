@@ -6,8 +6,5 @@
   top: 64px;
   background-color: #2f80ed;
   transform: rotate(15deg);
-}
-
-.header__square:hover {
   animation: rotation 20s linear infinite;
 }
